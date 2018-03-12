@@ -1,0 +1,21 @@
+1. Kwadryka to:#2
+	1. Powierzchnia generowana z uzyciem operacji algebry kwaternionow. 
+	2. Powierzchnia opisana wielomianem trzech zmiennych stopnia nie wiekszego niz dwa. 
+	3. Powierzchnia czwartego stopnia. 
+2. W metodzie energetycznej wynik obliczen oswietlenia sceny:#3
+	1. Zalezy od polozenia obserwatora. 
+	2. Zalezy od polozenia obserwatora w przypadku rzutu rownoleglego. 
+	3. Nie zalezy od polozenia obserwatora. 
+3. NURBS to skrot od:#2
+	1. Nonuniform Rendering B-Splines 
+	2. Nonuniform Rational B-Splines 
+	3. Nonuniform Raytraced B-Splines 
+4. Pierwszy system do rysowania przy pomocy komputera z piorem swietlnym nazywal sie:#3
+	1. MIT
+	2. Sketchboard
+	3. Sketchpad
+	4. Fejk
+5. Aby gladko zamknac krzywa Beziera potrzebne sa:#1
+	1. 4 punkty kontrolne
+	2. 3 punkty kontrolne
+	3. 2 punkty kontrolne
